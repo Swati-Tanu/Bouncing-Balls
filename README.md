@@ -14,7 +14,7 @@ This project is a static page with an animation in it built using only CSS and a
 #### Since this is an example project, I'd encourage you to clone and rename this project to use for your own purposes. It's a good starter boilerplate.
 
 * Clone or download the repository to your local machine.
-* Open the index.html file of the Project directory in your preferred browser to view the website.
+* Open the index.html file in your preferred browser to view the website.
 * Explore the code by opening the file in a text editor and following the comments.
 
 ## Demo
